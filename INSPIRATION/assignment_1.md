@@ -1,6 +1,10 @@
 # Assignment 1
 Do not have a clear direction at the moment but the general theme is Nature & Technology.
 
+[View PDF](images/MA%20Media%20Design%20Thesis%20-%20A1%20-%20Nature%20&%20Technology.pdf)
+
+[View Google Slides](https://docs.google.com/presentation/d/1IrseFcPhQiVu-LfUM_hxVDbaMHmqAJXAvp3G9LtminA/edit?usp=sharing)
+
 ## Research Questions
 1. What processes should be in place to ethically create and consume technology?
 2. How can we use existing lo-fi tech to understand the environment around us?
@@ -200,7 +204,6 @@ Todea, Luminița. “Technology Brands Inspired by Nature,” n.d.
 Yeo, Sophie. Nature’s Ghosts: The World We Lost and How to Bring It Back. HarperCollins Publishers, 2024.
 
 ———. “The ‘Wood Wide Web’ Theory Charmed Us All – but Now It’s the Subject of a Bitter Fight among Scientists.” The Guardian, July 9, 2024, sec. Opinion. https://www.theguardian.com/commentisfree/article/2024/jul/09/wood-wide-web-theory-charmed-us-bitter-fight-scientists.
-
 
 
 
